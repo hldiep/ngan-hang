@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\nganhang_phantan_nhom29\\frmchuyentien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|solutionrelative:nganhang_phantan_nhom29\\frmchuyentien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|d:\\doc\\ng-n-h-ng-ph-n-t-n-main\\nganhang_phantan_nhom29\\frmchuyentien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|solutionrelative:nganhang_phantan_nhom29\\frmchuyentien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\nganhang_phantan_nhom29\\frmguiruttien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|solutionrelative:nganhang_phantan_nhom29\\frmguiruttien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\nganhang_phantan_nhom29\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4314284E-85B6-4FDD-8AC0-7B1A55503727}|NGANHANG_PHANTAN_NHOM29\\NGANHANG_PHANTAN_NHOM29.csproj|solutionrelative:nganhang_phantan_nhom29\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmChuyenTien.cs",
+              "DocumentMoniker": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "RelativeDocumentMoniker": "NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "ToolTip": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "RelativeToolTip": "NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:53:48.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChuyenTien.cs [Design]",
+              "DocumentMoniker": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "RelativeDocumentMoniker": "NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs",
+              "ToolTip": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs [Design]",
+              "RelativeToolTip": "NGANHANG_PHANTAN_NHOM29\\frmChuyenTien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:49:39.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGuiRutTien.cs [Design]",
+              "DocumentMoniker": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmGuiRutTien.cs",
+              "RelativeDocumentMoniker": "NGANHANG_PHANTAN_NHOM29\\frmGuiRutTien.cs",
+              "ToolTip": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmGuiRutTien.cs [Design]",
+              "RelativeToolTip": "NGANHANG_PHANTAN_NHOM29\\frmGuiRutTien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:16:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmMain.cs",
+              "RelativeDocumentMoniker": "NGANHANG_PHANTAN_NHOM29\\frmMain.cs",
+              "ToolTip": "D:\\DOC\\Ng-n-H-ng-Ph-n-T-n-main\\NGANHANG_PHANTAN_NHOM29\\frmMain.cs [Design]",
+              "RelativeToolTip": "NGANHANG_PHANTAN_NHOM29\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:33:29.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
